@@ -1,4 +1,4 @@
-<h1>Testando linhas de comando em Go</h1>
+<h1>Diversidades em Go</h1>
 
 <p align="center"><td><img  width="2000" height="300" src='https://github.com/AlexandreSantosAL91/testing-hello-world-on-golang/blob/main/img/go.jpg'/></td></p> 
 </table>
