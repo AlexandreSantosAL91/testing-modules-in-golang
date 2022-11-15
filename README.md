@@ -1,4 +1,4 @@
-<h1>Testando Módulos com a linguagem Golang</h1>
+<h1>Testando Módulos com a linguagem Go</h1>
 
 Neste tutorial iremos testar módulos e depois executá-las.
 
